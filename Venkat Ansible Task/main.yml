@@ -1,0 +1,4 @@
+- gather_facts: true
+  hosts: example
+  roles:
+  - {role: example}
